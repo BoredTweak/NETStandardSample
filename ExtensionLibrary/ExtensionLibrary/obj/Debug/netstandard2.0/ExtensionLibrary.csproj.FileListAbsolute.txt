@@ -1,0 +1,8 @@
+C:\Dev\NETStandardSample\ExtensionLibrary\ExtensionLibrary\bin\Debug\netstandard2.0\ExtensionLibrary.deps.json
+C:\Dev\NETStandardSample\ExtensionLibrary\ExtensionLibrary\bin\Debug\netstandard2.0\ExtensionLibrary.dll
+C:\Dev\NETStandardSample\ExtensionLibrary\ExtensionLibrary\bin\Debug\netstandard2.0\ExtensionLibrary.pdb
+C:\Dev\NETStandardSample\ExtensionLibrary\ExtensionLibrary\obj\Debug\netstandard2.0\ExtensionLibrary.csproj.CoreCompileInputs.cache
+C:\Dev\NETStandardSample\ExtensionLibrary\ExtensionLibrary\obj\Debug\netstandard2.0\ExtensionLibrary.AssemblyInfoInputs.cache
+C:\Dev\NETStandardSample\ExtensionLibrary\ExtensionLibrary\obj\Debug\netstandard2.0\ExtensionLibrary.AssemblyInfo.cs
+C:\Dev\NETStandardSample\ExtensionLibrary\ExtensionLibrary\obj\Debug\netstandard2.0\ExtensionLibrary.dll
+C:\Dev\NETStandardSample\ExtensionLibrary\ExtensionLibrary\obj\Debug\netstandard2.0\ExtensionLibrary.pdb

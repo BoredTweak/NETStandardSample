@@ -1,0 +1,10 @@
+C:\Dev\NETStandardSample\FrameworkConsoleApp\bin\Debug\FrameworkConsoleApp.exe.config
+C:\Dev\NETStandardSample\FrameworkConsoleApp\bin\Debug\FrameworkConsoleApp.exe
+C:\Dev\NETStandardSample\FrameworkConsoleApp\bin\Debug\FrameworkConsoleApp.pdb
+C:\Dev\NETStandardSample\FrameworkConsoleApp\bin\Debug\ExtensionLibrary.dll
+C:\Dev\NETStandardSample\FrameworkConsoleApp\bin\Debug\ExtensionLibrary.pdb
+C:\Dev\NETStandardSample\FrameworkConsoleApp\obj\Debug\FrameworkConsoleApp.csprojAssemblyReference.cache
+C:\Dev\NETStandardSample\FrameworkConsoleApp\obj\Debug\FrameworkConsoleApp.csproj.CoreCompileInputs.cache
+C:\Dev\NETStandardSample\FrameworkConsoleApp\obj\Debug\FrameworkConsoleApp.csproj.CopyComplete
+C:\Dev\NETStandardSample\FrameworkConsoleApp\obj\Debug\FrameworkConsoleApp.exe
+C:\Dev\NETStandardSample\FrameworkConsoleApp\obj\Debug\FrameworkConsoleApp.pdb
